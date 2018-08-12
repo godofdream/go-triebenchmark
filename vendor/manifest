@@ -1,0 +1,38 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/dghubble/trie",
+			"repository": "https://github.com/dghubble/trie",
+			"vcs": "git",
+			"revision": "ee12f85bb2f11feabd68e65ed59cb1cb8f0ed379",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/fvbock/trie",
+			"repository": "https://github.com/fvbock/trie",
+			"vcs": "git",
+			"revision": "1d40233c66bdef97a7d978cbe799531a6acf1ea6",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/golang-collections/collections/trie",
+			"repository": "https://github.com/golang-collections/collections",
+			"vcs": "git",
+			"revision": "604e922904d35e97f98a774db7881f049cd8d970",
+			"branch": "master",
+			"path": "/trie",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/importcjj/trie-go",
+			"repository": "https://github.com/importcjj/trie-go",
+			"vcs": "git",
+			"revision": "b824e112ac912e45815a1763002f1534b0d11e2a",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
